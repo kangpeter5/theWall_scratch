@@ -1,0 +1,46 @@
+*{
+	margin 0 auto;
+	padding 0 auto;
+}
+
+.container{
+	width: 900px;
+	margin: 0 auto;
+}
+
+.success{
+	background-color: green;
+	color: black;
+	padding: 10px;
+}
+
+.error{
+	background-color: red;
+	color: white;
+	padding: 10px;
+}
+
+#email input[name='submit']{
+	margin: 0 auto;
+}
+
+#line {
+	border-top: 2px solid grey; 
+}
+
+#header h3, p, a{
+	display: inline-block;
+}
+
+#header a{
+	float: right;
+}
+
+.message {
+  color: green;
+}
+
+.comment {
+  color: blue;
+  margin-left: 2px;
+}
